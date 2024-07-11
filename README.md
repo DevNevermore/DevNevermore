@@ -16,8 +16,8 @@ My goal is to help provide people who have a dream with the blocks to building t
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">
 
-These videos show off some of my creations
-I am currently trying to build new things to provide for this page.
+# These videos show off some of my creations
+# I am currently trying to build new things to provide for this page.
 
  <ul>
   <li><a href="https://www.youtube.com/watch?v=V4g_HHlVlPg">Roblox Arresting System</a></li>
